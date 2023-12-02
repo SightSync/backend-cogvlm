@@ -1,0 +1,11 @@
+torch
+transformers
+pillow
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+sentencepiece
+einops
+protobuf
+xformers
